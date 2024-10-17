@@ -4,3 +4,7 @@ python-dotenv
 langchain_community
 langchain_core
 streamlit
+langchain-groq
+langchain_huggingface
+pypdf
+faiss-cpu
